@@ -1,0 +1,33 @@
+segment_sources:
+  P3802EDED:
+    type: origin_type
+    relation: translation
+    language: en
+  P9AC281AF:
+    type: origin_type
+    relation: translation
+    language: es
+  P300547FD:
+    type: origin_type
+    relation: translation
+    language: fr
+  PBD7D4656:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  21b08488a1da45ddb879b767c953159f:
+    P3802EDED: 2629f23a8ad940d2ac0e5c3863f811b4
+    P9AC281AF: 1c7effeff3e442ae85239fdd69718298
+    P300547FD: b307eaf65b304322b9482f0ce1d92a73
+    PBD7D4656: e15227530b4f4e5a90374839e07987d0
+  834d12d7da9f4ced8e7a611f3f2a8d0c:
+    P3802EDED: b6ea10c619ec459ea1a0fd71184ced83
+    P9AC281AF: 983f8f51465744adaa952876ee4cc750
+    P300547FD: 9c0b8a72bd094473b807867fff7b6bb9
+    PBD7D4656: a98b6d1a797342909fbaba9469cd0be3
+  79367a79d63b454694bd7f43bf0789bb:
+    P3802EDED: 1fdbc42c4da14393bd93a2d73b4de3e2
+    P9AC281AF: 87bb4fccf2cd44c18bf68a06fbb5b376
+    P300547FD: 22a03437233e4a378e8f142b2af9a6cf
+    PBD7D4656: 16545061fb7447389e485b1c3aa3ea4c

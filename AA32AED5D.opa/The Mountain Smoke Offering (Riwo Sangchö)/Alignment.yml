@@ -1,0 +1,22 @@
+segment_sources:
+  P3802EDED:
+    type: origin_type
+    relation: translation
+    language: en
+  PBD7D4656:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  da708074e35740fea46bee2d0474c544:
+    P3802EDED: 1206a47aea784754858416fd18674313
+    PBD7D4656: 5d6781bbfc96413f91d3d487df98b50e
+  551e946d38e24c46a4dfb2cf2a8e7636:
+    P3802EDED: 2f6a47743c8e458c9daac446db92ee6b
+    PBD7D4656: e2e031829e42482db6d59f1f6a565d0d
+  26094708fab84e27ab08955e4f56261d:
+    P3802EDED: 36a7b974605c4ee1bce425fac96a931b
+    PBD7D4656: 3370ff0090d04c6d9a74079967c81cf6
+  3fece637ca16478cb8f32b4d44572a36:
+    P3802EDED: fddc365f4ffb4d13a8ca37694c8fa34e
+    PBD7D4656: d8462d21333e4aa4a5e3cf9cabfb2468
